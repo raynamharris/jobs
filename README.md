@@ -15,6 +15,20 @@ science communication, and peer mentoring.
 [Click here to read the full letter](./2020_06_06_Berkeley_letter.md) or 
 [click here to view the included CV.](./2020_06_06_Berkeley_CV.pdf) 
  
+## Sierra Nevada University, June 6, 2020
+
+I am writing to express my interest in an Adjunct Faculty position. I have a BS in
+Biochemistry and a PhD in Cell and Molecular Biology from the University of Texas at
+Austin. I currently live in Truckee and am working remotely for the University of
+California, Davis as a postdoctoral scholar. My current research investigates the neural
+and molecular mechanisms that regular parental care behavior in pigeons, and I am
+developing software that integrates art and music to communicate scientific findings.
+
+I have 13 years of experience teaching hands-on courses at the college level, including
+ 
+[Click here to read the full letter](./2020_06_06_SNU_letter.md) or 
+[click here to view the included CV.](./2020_06_06_SNU_CV.pdf) 
+ 
 ## Center for Scientific Collaboration and Community Engagement, July 24, 2020
 
 I am writing to express my interest in the Lead Trainer and Curriculum Development Specialist
