@@ -1,4 +1,4 @@
-## RStudio , July 25, 2020
+## RStudio, July 25, 2020
 
 I want to express my interest in the Solutions Engineer position. I enjoy using R to find answers
 to biological questions, and I find joy in helping others use R to solve global problems.

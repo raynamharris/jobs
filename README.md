@@ -28,7 +28,7 @@ of Texas. During my post-bachelor years, I taught hands-on laboratory classes in
 [Link to full letter with the application.](./2020_07_23_CSCCE_letter.md) 
 [Link to CV included with the application.](./2020_07_23_CSCCE_CV.pdf) 
  
-## RStudio , July 25, 2020
+## RStudio, July 25, 2020
 
 I want to express my interest in the Solutions Engineer position. I enjoy using R to find answers
 to biological questions, and I find joy in helping others use R to solve global problems.
