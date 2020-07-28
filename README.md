@@ -1,20 +1,6 @@
 # Job Search
  
 This GitHub repository contains a few of the cover letters and CVs I used to apply for jobs. Below is a snap shot of each letter with links to the full letter and CV below.
-## UC Berkeley Extension, June 27, 2020
-
-I am writing to express my interest in a teaching position in Sciences, Mathematics and
-Biotechnology. I have a BS in Biochemistry and PhD in Cell and Molecular Biology from
-the University of Texas at Austin. I currently live in Truckee and am working remotely as
-a postdoctoral scholar for the University of California, Davis. My scientific research
-investigates the neural and molecular mechanisms that regulate learned and social
-behaviors. My postdoctoral responsibilities involve data analysis, software development;
-science communication, and peer mentoring.
-
- 
-[Click here to read the full letter](./2020_06_06_Berkeley_letter.md) or 
-[click here to view the included CV.](./2020_06_06_Berkeley_CV.pdf) 
- 
 ## Sierra Nevada University, June 6, 2020
 
 I am writing to express my interest in an Adjunct Faculty position. I have a BS in
@@ -28,6 +14,20 @@ I have 13 years of experience teaching hands-on courses at the college level, in
  
 [Click here to read the full letter](./2020_06_06_SNU_letter.md) or 
 [click here to view the included CV.](./2020_06_06_SNU_CV.pdf) 
+ 
+## UC Berkeley Extension, June 27, 2020
+
+I am writing to express my interest in a teaching position in Sciences, Mathematics and
+Biotechnology. I have a BS in Biochemistry and PhD in Cell and Molecular Biology from
+the University of Texas at Austin. I currently live in Truckee and am working remotely as
+a postdoctoral scholar for the University of California, Davis. My scientific research
+investigates the neural and molecular mechanisms that regulate learned and social
+behaviors. My postdoctoral responsibilities involve data analysis, software development;
+science communication, and peer mentoring.
+
+ 
+[Click here to read the full letter](./2020_06_27_Berkeley_letter.md) or 
+[click here to view the included CV.](./2020_06_27_Berkeley_CV.pdf) 
  
 ## Center for Scientific Collaboration and Community Engagement, July 24, 2020
 
