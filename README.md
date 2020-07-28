@@ -12,7 +12,7 @@ behaviors. My postdoctoral responsibilities involve data analysis, software deve
 science communication, and peer mentoring.
 
  
-[Click here to read the full letter.](./2020_06_06_Berkeley_letter.md) or 
+[Click here to read the full letter](./2020_06_06_Berkeley_letter.md) or 
 [click here to view the included CV.](./2020_06_06_Berkeley_CV.pdf) 
  
 ## Center for Scientific Collaboration and Community Engagement, July 24, 2020
@@ -26,7 +26,7 @@ responsibilities of this role.
 I have a B.S. in Biochemistry and a Ph.D. in Cellular and Molecular Biology from The University
 of Texas. During my post-bachelor years, I taught hands-on laboratory classes in organic
  
-[Click here to read the full letter.](./2020_07_23_CSCCE_letter.md) or 
+[Click here to read the full letter](./2020_07_23_CSCCE_letter.md) or 
 [click here to view the included CV.](./2020_07_23_CSCCE_CV.pdf) 
  
 ## RStudio, July 25, 2020
@@ -40,6 +40,6 @@ burgeoning community of data scientists and bioinformaticians were filling gaps 
 curriculum by offering hands-on workshops. Through these workshops and my involvement with
 The Carpentries, I learned how to use and teach tools such as high-performance computing
  
-[Click here to read the full letter.](./2020_07_25_RStudio_letter.md) or 
+[Click here to read the full letter](./2020_07_25_RStudio_letter.md) or 
 [click here to view the included CV.](./2020_07_25_RStudio_CV.pdf) 
  
