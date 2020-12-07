@@ -10,6 +10,7 @@ curriculum by offering hands-on workshops. Through these workshops and my involv
 The Carpentries, I learned how to use and teach tools such as high-performance computing
 systems, R, and Git to conduct open and reproducible research.
 
+
 After obtaining my PhD, I went to Argentina and gave a talk at RLadies Buenos Aires called
 “Usando y Enseñando R para Investigación Reproducible / Using and Teaching R for
 Reproducible Research”. Later, two of the attendees helped me host an in-person hackathon to
@@ -18,6 +19,7 @@ remotely via Slack and GitHub. Many members of this LatinR community also helped
 translate _R for Data Science (R4DS)_ into Spanish, and I co-authored the `datos` package that
 provides translations of datasets used in R4DS to make these resources more accessible to
 diverse communities of R users that don’t speak English as a first language.
+
 
 My postdoctoral work in Dr. Titus Brown’s lab has given me the most insight into the latest in
 cloud computing and data science technologies. In 2018, I helped coordinate the
