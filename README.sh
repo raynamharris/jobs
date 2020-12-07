@@ -5,7 +5,7 @@ echo "This GitHub repository contains a few of the cover letters and CVs I used 
 for i in *letter.md
 do 
 	CV=$(basename $i letter.md)CV.pdf
-	ls -rt $i | xargs cat | head >> README.md
+	ls $i | xargs cat | head >> README.md
 	echo " " >> README.md
 	echo "[Click here to read the full letter](./$i) or " >> README.md
 	echo "[click here to view the included CV.](./$CV) " >> README.md
