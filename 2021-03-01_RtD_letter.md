@@ -2,7 +2,7 @@
 
 ## 1-2 paragraphs about why you're excited to work on Read the Docs
 
-I first heard about the Chan Zuckerberg Initiative in 2015, and I have followed the progress of the growth of the organization every since. I've been using 
+I first heard about the Chan Zuckerberg Initiative in 2015, and I have followed the progress of the growth of the organization ever since. I've been using 
 Read the Docs documentation building and hosting services since I discovered the training program run by C. Titus Brown at UC Davis. I have a Ph.D. in Cell and Molecular Biology and a decade of experience managing open science projects. I enjoy making discoveries and teaching science, but I believe my greatest contributions to science and society are my ability to empower others to make and share discoveries that advance our understanding of biological processes. I believe a position as a developer advocate with documentation skills at Read the Docs will help me contribute to the shared goals of leveraging technology to help solve some of the world’s toughest challenges.   
 
 ## 1-2 paragraphs about a project you're proud of
@@ -12,7 +12,7 @@ The project that bridged that gap was a community-driven effect to translate Sof
 
 ## Anything else you'd like us to know?
 
-After my post-doc ended in 2020, I started working as a seasonal Parking Host at the ski resort Alpine Meadows in Olympic Valley, CA. After a short three months, I was promoted to a Supervisor for my ability to learn new tasks, coordinate others, analyze data, and identify team needs. This job has given me new perspectives on the needs of teams and team members and different strategies for project management. I also have part-time work during the North American summer, so contract work 3-5 days a week is during UTC-8 to UTC+1 is okay. 
+After my post-doc ended in 2020, I started working as a seasonal Parking Host at the ski resort Alpine Meadows in Olympic Valley, CA. After a short three months, I was promoted to a Supervisor for my ability to learn new tasks, coordinate others, analyze data, and identify team needs. This job has given me new perspectives on the needs of teams and team members and different strategies for project management. Additionally, this is a part-time job that I can maintain while balancing part-time work for Read the Docs.  I live in PST and am available to work between UTC - 8 and UTC-8 to UTC+1 . 
 
 
 
