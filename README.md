@@ -99,3 +99,17 @@ As an undergraduate, I pursued a degree in Biochemistry because I was fascinated
 [Click here to read the full letter](./2021-03-01_CZI_letter.md) or 
 [click here to view the included CV.](./2021-03-01_CZI_CV.pdf) 
  
+# Read the Docs, Mar 1, 2021
+
+## 1-2 paragraphs about why you're excited to work on Read the Docs
+
+I first heard about the Chan Zuckerberg Initiative in 2015, and I have followed the progress of the growth of the organization every since. I've been using 
+Read the Docs documentation building and hosting services since I discovered the training program run by C. Titus Brown at UC Davis. I have a Ph.D. in Cell and Molecular Biology and a decade of experience managing open science projects. I enjoy making discoveries and teaching science, but I believe my greatest contributions to science and society are my ability to empower others to make and share discoveries that advance our understanding of biological processes. I believe a position as a developer advocate with documentation skills at Read the Docs will help me contribute to the shared goals of leveraging technology to help solve some of the world’s toughest challenges.   
+
+## 1-2 paragraphs about a project you're proud of
+
+In 2015, Greg Wilson asked if I could teach UNIX to a group of Spanish-speaking bioinformaticians in Mexico. I was interested, but I declined because I didn't think I was fluent enough to teach or answer questions in Spanish. But seeds had been planted, and in 2018 I found myself teaching Git in Spanish in Argentina. 
+ 
+[Click here to read the full letter](./2021-03-01_RtD_letter.md) or 
+[click here to view the included CV.](./2021-03-01_RtD_CV.pdf) 
+ 
