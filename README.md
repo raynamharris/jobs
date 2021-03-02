@@ -85,3 +85,17 @@ A recent fellowship in Community Engagement gave me a foundation of best practic
 [Click here to read the full letter](./2020-11-18_CZI_letter.md) or 
 [click here to view the included CV.](./2020-11-18_CZI_CV.pdf) 
  
+## CZI, Mar 1, 2021
+
+To the Chan Zuckerberg Initiative,
+
+I am interested in the Project Manager career opportunity with the Open Science and Science in Society programs at CZI. 
+
+I have a PhD in Cell and Molecular Biology and a decade of experience managing open science projects. I enjoy making discoveries and teaching science, but I believe my greatest contributions to science and society are my ability to empower others to make and share discoveries that advance our understanding of biological processes. 
+
+As an undergraduate, I pursued a degree in Biochemistry because I was fascinated by the beauty of chemical processes and the complex biological systems they regulated. Organic chemistry scared many of my peers, but I enjoyed drawing chemical structures and solving chemical equations. After graduation, I worked as a full-time Teaching Specialist in the Organic Chemistry Department where I gained experience teaching hands-on laboratory experiments. I also dreamed of discovering new chemical compounds in the rainforest and coral reefs. After graduation, I pursued an unpaid post-baccalaureate internship in Costa Rica where I used both my SCUBA diving skills and molecular laboratory training to contribute to a multi-disciplinary research effort to discover biomedical relevant fungi in the ocean. 
+
+ 
+[Click here to read the full letter](./2021-03-01_CZI_letter.md) or 
+[click here to view the included CV.](./2021-03-01_CZI_CV.pdf) 
+ 
