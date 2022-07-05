@@ -36,7 +36,7 @@ This GitHub repository contains a few of the cover letters and CVs I used to app
 [Click here to read the full letter](./2021-03-01_CZI_letter.md) or 
 [click here to view the included CV.](./2021-03-01_CZI_CV.pdf) 
  
-# Read the Docs, Mar 1, 2021
+## Read the Docs, Mar 1, 2021
  
 [Click here to read the full letter](./2021-03-01_RtD_letter.md) or 
 [click here to view the included CV.](./2021-03-01_RtD_CV.pdf) 
