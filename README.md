@@ -41,17 +41,17 @@ This GitHub repository contains a few of the cover letters and CVs I used to app
 [Click here to read the full letter](./2021-03-01_RtD_letter.md) or 
 [click here to view the included CV.](./2021-03-01_RtD_CV.pdf) 
  
-# Seven Bridges May 29, 2022
+## Seven Bridges May 29, 2022
  
 [Click here to read the full letter](./2022-05-29_SB_letter.md) or 
 [click here to view the included CV.](./2022-05-29_SB_CV.pdf) 
  
-# Seven Bridges May 29, 2022
+## Seven Bridges May 29, 2022
  
 [Click here to read the full letter](./2022-06-29_SSPF_letter.md) or 
 [click here to view the included CV.](./2022-06-29_SSPF_CV.pdf) 
  
-# Tahoe Institute for Natural Science July 5, 2022
+## Tahoe Institute for Natural Science July 5, 2022
  
 [Click here to read the full letter](./2022-07-05_TINS_letter.md) or 
 [click here to view the included CV.](./2022-07-05_TINS_CV.pdf) 

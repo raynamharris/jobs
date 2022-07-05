@@ -1,4 +1,4 @@
-# Tahoe Institute for Natural Science July 5, 2022
+## Tahoe Institute for Natural Science July 5, 2022
 
 I am writing to express my interest in the Part-Time Membership Coordinator position I saw advertised on your website. 
 

@@ -1,4 +1,4 @@
-# Seven Bridges May 29, 2022
+## Seven Bridges May 29, 2022
 
 I am writing to express my interest in the Community Engagement Manager position. I was referred by my advisor, Dr. C. Titus Brown. 
 
