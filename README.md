@@ -46,7 +46,7 @@ This GitHub repository contains a few of the cover letters and CVs I used to app
 [Click here to read the full letter](./2022-05-29_SB_letter.md) or 
 [click here to view the included CV.](./2022-05-29_SB_CV.pdf) 
  
-## Seven Bridges May 29, 2022
+##  Sierra State Parks Foundation June 29, 2022
  
 [Click here to read the full letter](./2022-06-29_SSPF_letter.md) or 
 [click here to view the included CV.](./2022-06-29_SSPF_CV.pdf) 
