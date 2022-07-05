@@ -7,7 +7,7 @@ do
 	CV=$(basename $i letter.md)CV.pdf
 	ls $i | xargs cat | head -1 >> README.md
 	echo " " >> README.md
-	echo "[Click here to read the full letter](./$i) or " >> README.md
-	echo "[click here to view the included CV.](./$CV) " >> README.md
+	echo "Click [here to read the letter](./$i) or " >> README.md
+	echo "or [view the current CV.](./$CV) " >> README.md
 	echo " " >> README.md
 done
