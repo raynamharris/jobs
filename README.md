@@ -90,11 +90,11 @@ A recent fellowship in Community Engagement gave me a foundation of best practic
 To the Chan Zuckerberg Initiative,
 
 I am interested in the Project Manager career opportunity with the Open Science and Science in Society programs at CZI. 
+
 I have a PhD in Cell and Molecular Biology and a decade of experience managing open science projects. I enjoy making discoveries and teaching science, but I believe my greatest contributions to science and society are my ability to empower others to make and share discoveries that advance our understanding of biological processes. 
+
 As an undergraduate, I pursued a degree in Biochemistry because I was fascinated by the beauty of chemical processes and the complex biological systems they regulated. I enjoyed drawing chemical structures and solving chemical equations. After graduation, I worked as a full-time Teaching Specialist in the Organic Chemistry Department where I gained experience teaching hands-on laboratory experiments. I dreamed of discovering new chemical compounds in the rainforest and coral reefs. After graduation, I pursued a post-baccalaureate internship in Costa Rica where I used both my SCUBA diving skills and molecular laboratory training to contribute to a multi-disciplinary research effort to discover biomedical relevant fungi in the ocean. 
-From 2008 to 2017 I worked as a lab technician and then a graduate student in Hans Hofmann’s lab at The University of Texas. As a technical, I combined laboratory and teaching expertise to work on several collaborative projects and train other scientists. During this time, I presented our research at numerous conferences around the world, developed and taught numerous workshops, co-authored 20 scientific publications, and wrote numerous blog posts. My research broadly focused on understanding the neural and molecular processes that regulate animal behavior. I embraced open-science during this time and used R for reproducible data analysis. All of my thesis research is available on GitHub, and my thesis chapters can be easily read online at https://www.raynamharris.com/Thesis/.  
-During graduate school, I also served as the Training and Outreach Coordinator for the Center for Computational Biology and Bioinformatics. Genomic sequencing was on the rise, but training in bioinformatics was lagging. To fill this gap, I organized a series of workshops and four annual symposia to bring together scientists, engineers, and medical doctors who were using similar tools to solve diverse problems. By building relationships across academic disciplines and into industry, government, medicine, I was able to foster new collaborations and promote the transfer of knowledge. I started conducting post-workshop assessments and writing blog posts to communicate my interpretation, but I needed guidance on best practices. A colleague introduced me to the non-profit organization Software Carpentry (which later merged with Data Carpentry for form The Carpentries) and I became an avid volunteer. I instructed workshops, mentored and trained new instructors, served on the Board of Directors, and collaboratively developed new lessons. Through these experiences, I became skilled at managing online communities and serving as a liaison between sub-communities.
-After completing my Ph.D., I joined Dr. Titus Brown's lab as a technical liaison for the Data Commons Pilot Phase Consortium (DCPPC), focusing on communication and community engagement. The DCPPC consisted of about 500 scientists, engineers, developers, and funders from over a dozen institutions whose common goal was to build cloud-based infrastructure that would make biomedical data more findable, accessible, interoperable, and reusable (FAIR). I co-authored onboarding documentation, co-organized in-person meetings, facilitated webinars, conducted online retrospectives, and beta-tested software. The long-term benefits of our community-building efforts are evidenced by numerous collaborative projects that have continued years after the initial funding period ended. Dr. Rebecca Calisi-Rodríguez and I were brought together to make science videos about the DCPPC. Then she hired me to work on a science communication project funded by National Geographic and an NIH-funded project investigating the neural and molecular basis of parental care in pigeons. For the latter project, I developed an R Shiny application to allow rapid exploration of a very large, open RNA-seq dataset. This software can be easily and freely accessed online at https://raynamharris.shinyapps.io/musicalgenes/.
+
  
 [Click here to read the full letter](./2021-03-01_CZI_letter.md) or 
 [click here to view the included CV.](./2021-03-01_CZI_CV.pdf) 
@@ -112,4 +112,46 @@ In 2015, Greg Wilson, co-founder of Software Carpentry, asked if I could teach U
  
 [Click here to read the full letter](./2021-03-01_RtD_letter.md) or 
 [click here to view the included CV.](./2021-03-01_RtD_CV.pdf) 
+ 
+# Seven Bridges May 29, 2022
+
+I am writing to express my interest in the Community Engagement Manager position. I was referred by my advisor, Dr. C. Titus Brown. 
+
+I learned about Seven Bridges in 2018 when I served as a postdoc focused on community engagement for the NIH-funded Data Commons Pilot Phase Program. I co-organized six in-person meetings to bring together scientists and engineers to build cloud computing tools for biomedical genomic research. I also performed code reviews for tools that were in development, but funding for the pilot program was cut before we could build a training program. 
+
+Fast-forward to 2022, I am finally helping build and implement a training program in my current role as a postdoc for the Common Fund Data Ecosystem. Our goal is to teach scientists and clinicians how to find, access, and analyze large genomic datasets. I have developed and taught UNIX and R workshops to teach the basics of command-line scripting and data analysis. I have also taught lessons developed by my coworkers, such as Introduction to Amazon Web Services, and I’ve helped colleagues publish tutorials on our training website at https://training.nih-cfde.org/en/latest/. I also perform tests on our data search portal (https://app.nih-cfde.org/), including making sure that files can be imported into CAVATICA using DRS IDs.
+
+When I was younger, “Community Engagement Manager” wasn’t a job that I dreamed of having because I had never heard of it. I dreamed of being a teacher or scientist because I knew what those things were. Indeed, I have 15 years of experience teaching at the college level, and 10 years of experience conducting genome-scale research. However, during my PhD, I was given the opportunity to organize several community-focused events, and this led to community engagement focuses post-doc positions. As I look toward the future, I know that my past experiences and current interests are well suited to a career as a manager focused on community engagement. 
+
+ 
+[Click here to read the full letter](./2022-05-29_SB_letter.md) or 
+[click here to view the included CV.](./2022-05-29_SB_CV.pdf) 
+ 
+# Seven Bridges May 29, 2022
+
+I am writing to express my interest in the Community Engagement Manager position. I was referred by my advisor, Dr. C. Titus Brown. 
+
+I learned about Seven Bridges in 2018 when I served as a postdoc focused on community engagement for the NIH-funded Data Commons Pilot Phase Program. I co-organized six in-person meetings to bring together scientists and engineers to build cloud computing tools for biomedical genomic research. I also performed code reviews for tools that were in development, but funding for the pilot program was cut before we could build a training program. 
+
+Fast-forward to 2022, I am finally helping build and implement a training program in my current role as a postdoc for the Common Fund Data Ecosystem. Our goal is to teach scientists and clinicians how to find, access, and analyze large genomic datasets. I have developed and taught UNIX and R workshops to teach the basics of command-line scripting and data analysis. I have also taught lessons developed by my coworkers, such as Introduction to Amazon Web Services, and I’ve helped colleagues publish tutorials on our training website at https://training.nih-cfde.org/en/latest/. I also perform tests on our data search portal (https://app.nih-cfde.org/), including making sure that files can be imported into CAVATICA using DRS IDs.
+
+When I was younger, “Community Engagement Manager” wasn’t a job that I dreamed of having because I had never heard of it. I dreamed of being a teacher or scientist because I knew what those things were. Indeed, I have 15 years of experience teaching at the college level, and 10 years of experience conducting genome-scale research. However, during my PhD, I was given the opportunity to organize several community-focused events, and this led to community engagement focuses post-doc positions. As I look toward the future, I know that my past experiences and current interests are well suited to a career as a manager focused on community engagement. 
+
+ 
+[Click here to read the full letter](./2022-06-29_SSPF_letter.md) or 
+[click here to view the included CV.](./2022-06-29_SSPF_CV.pdf) 
+ 
+# Tahoe Institute for Natural Science July 5, 2022
+
+I am writing to express my interest in the Part-Time Membership Coordinator position I saw advertised on your website. 
+
+Since moving to the Tahoe area in 2019, I have held part-time positions at Rock & Rose Landscaping & Nursery, Palisades Tahoe, and the River Ranch Lodge & Restaurant. These jobs have helped me connect with the community and learn about the local flora and fauna. However, I am looking for a part-time job that better capitalizes on my expertise and training.
+
+I have been involved with community engagement and management since I started graduate school in 2012. I organized a yearly symposium and a week-long workshop series on the topic of Big Data in Biology at The University of Texas in Austin. My role involved coordinating speakers and caterers, reserving rooms, and conducting assessments. I wrote grants to fund events and scientific research. I joined Twitter during this time to live-tweet events and disseminate fliers and blog posts to a large audience.
+
+In 2018, I started a remote post-doctoral position at the University of California, Davis focused on communication, training, and outreach. I organize meetings and events to facilitate collaboration between scientists, engineers, and clinicians to build infrastructure for data-driven biomedical research. I have the technical skills to analyze data and create statistical reports. I also serve on the help desk team that responds to daily requests for help with software or membership. Additionally, I am fluent in Spanish and have worked with volunteers around the world to translate training materials to support non-English speakers in science. 
+
+ 
+[Click here to read the full letter](./2022-07-05_TINS_letter.md) or 
+[click here to view the included CV.](./2022-07-05_TINS_CV.pdf) 
  
